@@ -5,7 +5,7 @@ import winsound
 from threading import *
 
 root = Tk()
-root.geometry("400x200")
+root.geometry("500x200")
 
 
 def Threading():
